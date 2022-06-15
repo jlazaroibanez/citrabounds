@@ -27,7 +27,6 @@ with one reaction in the constraint-based model.
 
 6. Flux_bounds_mapping.xlsx: Spreadsheet reporting the resulting maximum and minimum
 bounds for each reaction after executing the differential evolution algorithm.
-33
 
 ## Graphs
 
