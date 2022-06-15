@@ -1,6 +1,6 @@
 # citrabounds
 
-The citrabounds github repository contains the files used in my Master's Thesis: "ENRICHMENT OF METABOLIC CONSTRAINT-BASED MODELS USING KINETIC INFORMATION". A brief description of the function of each script is given in the following enumeration:
+The citrabounds github repository contains the files used in my Master's Thesis: **"ENRICHMENT OF METABOLIC CONSTRAINT-BASED MODELS USING KINETIC INFORMATION"**. A brief description of the function of each script is given in the following enumeration:
 
 1. **ecolicitra.py**: This .py file defines the functions that are subsequently executed by the
 comproductimod.py script. It contains functions related to the kinetic model analysis and the
