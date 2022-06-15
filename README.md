@@ -4,7 +4,7 @@ The citrabounds github repository contains the files used in my Master's Thesis:
 
 1. ecolicitra.py: This .py file defines the functions that are subsequently executed by the
 comproductimod.py script. It contains functions related to the kinetic model analysis and the
-implementation of the citramalate production reaction, as well as the V max extraction from
+implementation of the citramalate production reaction, as well as the Vmax extraction from
 each reaction.
 
 2. comproductimod.py: This .py file executes the methods defined in ecolicitra.py. It also
@@ -28,3 +28,7 @@ with one reaction in the constraint-based model.
 6. Flux_bounds_mapping.xlsx: Spreadsheet reporting the resulting maximum and minimum
 bounds for each reaction after executing the differential evolution algorithm.
 33
+
+## Graphs
+
+The graphs were designed in R. They can be found in the Grphs folder in the R script Graphs.R
